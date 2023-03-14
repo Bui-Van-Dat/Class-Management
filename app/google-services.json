@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725430946926",
+    "project_id": "class-manager-cac90",
+    "storage_bucket": "class-manager-cac90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725430946926:android:24c317229e4f775dfbaa7f",
+        "android_client_info": {
+          "package_name": "com.example.classmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725430946926-4kp26ul9sqqug2jic17frunck97pcvd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vDTEvy0gl0IRqwNyeln5C_4PuGiHCJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725430946926-4kp26ul9sqqug2jic17frunck97pcvd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
